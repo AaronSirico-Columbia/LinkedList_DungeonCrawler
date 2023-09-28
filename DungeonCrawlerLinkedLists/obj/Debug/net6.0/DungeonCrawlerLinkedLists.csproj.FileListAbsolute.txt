@@ -1,0 +1,14 @@
+C:\Users\aarro\source\repos\DungeonCrawlerLinkedLists\DungeonCrawlerLinkedLists\bin\Debug\net6.0\DungeonCrawlerLinkedLists.exe
+C:\Users\aarro\source\repos\DungeonCrawlerLinkedLists\DungeonCrawlerLinkedLists\bin\Debug\net6.0\DungeonCrawlerLinkedLists.deps.json
+C:\Users\aarro\source\repos\DungeonCrawlerLinkedLists\DungeonCrawlerLinkedLists\bin\Debug\net6.0\DungeonCrawlerLinkedLists.runtimeconfig.json
+C:\Users\aarro\source\repos\DungeonCrawlerLinkedLists\DungeonCrawlerLinkedLists\bin\Debug\net6.0\DungeonCrawlerLinkedLists.dll
+C:\Users\aarro\source\repos\DungeonCrawlerLinkedLists\DungeonCrawlerLinkedLists\bin\Debug\net6.0\DungeonCrawlerLinkedLists.pdb
+C:\Users\aarro\source\repos\DungeonCrawlerLinkedLists\DungeonCrawlerLinkedLists\obj\Debug\net6.0\DungeonCrawlerLinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aarro\source\repos\DungeonCrawlerLinkedLists\DungeonCrawlerLinkedLists\obj\Debug\net6.0\DungeonCrawlerLinkedLists.AssemblyInfoInputs.cache
+C:\Users\aarro\source\repos\DungeonCrawlerLinkedLists\DungeonCrawlerLinkedLists\obj\Debug\net6.0\DungeonCrawlerLinkedLists.AssemblyInfo.cs
+C:\Users\aarro\source\repos\DungeonCrawlerLinkedLists\DungeonCrawlerLinkedLists\obj\Debug\net6.0\DungeonCrawlerLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\aarro\source\repos\DungeonCrawlerLinkedLists\DungeonCrawlerLinkedLists\obj\Debug\net6.0\DungeonCrawlerLinkedLists.dll
+C:\Users\aarro\source\repos\DungeonCrawlerLinkedLists\DungeonCrawlerLinkedLists\obj\Debug\net6.0\refint\DungeonCrawlerLinkedLists.dll
+C:\Users\aarro\source\repos\DungeonCrawlerLinkedLists\DungeonCrawlerLinkedLists\obj\Debug\net6.0\DungeonCrawlerLinkedLists.pdb
+C:\Users\aarro\source\repos\DungeonCrawlerLinkedLists\DungeonCrawlerLinkedLists\obj\Debug\net6.0\DungeonCrawlerLinkedLists.genruntimeconfig.cache
+C:\Users\aarro\source\repos\DungeonCrawlerLinkedLists\DungeonCrawlerLinkedLists\obj\Debug\net6.0\ref\DungeonCrawlerLinkedLists.dll
